@@ -39,6 +39,75 @@ Where funds were sent
 When transactions occurred
 Use Block Explorer (like Basescan) to track
 
+
+Coin Fund raising: 
+Think of it like a verified Instagram account, but more strict:
+- Creator must provide:
+  • Government ID
+  • Proof of address
+  • Social media verification
+  • Phone number verification
+  
+Like opening a bank account, but for creating fundraisers.
+
+
+
+Like a video game with levels:
+Level 1: Raise $10,000 -> Get $2,000 released
+Level 2: Show proof of work -> Get $3,000 released
+Level 3: Complete project phase -> Get $5,000 released
+
+Money isn't given all at once - it's released in stages based on progress.
+
+
+Think of it like a savings account that only unlocks after time:
+- Creator creates coin
+- Creator gets 1,000,000 coins
+- BUT they can only sell:
+  • 20% after 6 months
+  • 40% after 1 year
+  • 40% after 2 years
+  
+Prevents "rug pulls" where creators dump all coins immediately.
+
+
+Like a democracy for each project:
+- People who buy coins get voting power
+- They vote on:
+  • Should next milestone payment be released?
+  • Is project progressing well?
+  • Should timeline be extended?
+  
+Similar to shareholders voting in a company.
+
+Like a trusted middle-man:
+1. Donors send money
+2. Money held by smart contract (not creator)
+3. Multiple trusted parties must approve withdrawal
+4. Only released when conditions met
+
+Example:
+$100,000 raised
+↓
+Held in smart contract
+↓
+Creator needs:
+- Community vote
+- Project advisor approval
+- Milestone completion
+To withdraw funds
+
+Like eBay seller ratings but for fundraisers:
+• Past successful projects
+• Total money raised
+• Community ratings
+• Verification level
+
+Level 1: New creator (limited fundraising)
+Level 2: One successful project
+Level 3: Multiple successful projects
+Level 4: Verified track record
+
 ![IMG_0354 3](https://github.com/user-attachments/assets/d063f938-0a7f-4124-bd06-c276d9b4311d)
 ![IMG_0355 3](https://github.com/user-attachments/assets/ff17e695-ae4a-41ae-a3b6-de71d9546a47)
 ![IMG_0356](https://github.com/user-attachments/assets/23d304fa-0ad3-4617-ac7f-6ce885ad5c13)
