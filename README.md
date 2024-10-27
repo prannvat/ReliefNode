@@ -1,3 +1,10 @@
+
+
+
+https://github.com/user-attachments/assets/f4dc662e-9578-4ec6-90f1-ed055f81ddbb
+
+
+
 Relief Node is a decentralized platform built on Base (Ethereum L2) that connects disaster relief efforts with blockchain technology. Our initial implementation includes:
 iOS app with SwiftUI frontend that:
 Enables wallet connection via Coinbase Wallet SDK
